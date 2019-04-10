@@ -4,6 +4,7 @@ Library                     Selenium2Library
 Library                     BuiltIn
 Resource                    ../Keyword/Keywords.robot
 Resource                   ../Variable/variable.robot
+Test Timeout                2 minutes
 
 #${URL}                      https://www.kegg.jp/kegg/rest/keggapi.html
 #${timeout}                  3s
