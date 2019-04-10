@@ -21,5 +21,10 @@ Verify the Homepage title
     title should be  ${title}
 
 
+Verify header label
+    title should be     ${Headerlabel}
+
+
+
 Click on Find link
     click Element   //a[contains(text(), 'find')]

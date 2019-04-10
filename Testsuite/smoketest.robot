@@ -23,6 +23,8 @@ Check User can access home page
 Verify Homepage title is displayed correctly
         Verify the Homepage title
 
+Verify Header label appears correctly
+        Verify header label
 
 Click on 'Find' link
         Click on Find link
